@@ -1,8 +1,14 @@
 # Cities
 
-**This repo is archived – no longer maintained. Please fork if you need it!**
-
 All the cities of the world (according to the periodically updated MaxMind database).
+
+## Installation
+
+Add to Gemfile:
+
+```rb
+gem "cities", github: "kirillplatonov/cities"
+```
 
 ## Data
 
